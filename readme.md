@@ -3,6 +3,8 @@
 This is a Telegram bot that helps you add watermarks to your photos. The bot is completely free to use, and you won't
 find any other watermarks on your photos except yours.
 
+![Screenshot](.images/screenshot.png)
+
 ## Features
 
 - Add text watermarks to your images
